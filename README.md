@@ -25,6 +25,9 @@ cd sign_language_detection
 3. Organize your sign language data into subfolders for each class (e.g., A, B, C) within the `Data` folder.
 4. Each subfolder should contain images of the corresponding sign.
 
+## The Dataset used 
+ url : https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
 ## Running the Code
 
 1. Open Jupyter Notebook:
